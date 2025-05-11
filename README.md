@@ -1,8 +1,8 @@
-# helloworld
+# 小红书，github链接总结
 
-AstrBot 插件模板
+AstrBot 插件
 
-A template plugin for AstrBot plugin feature
+使用/summraize url可以对小红书的页面进行AI总结
 
 # 支持
 
